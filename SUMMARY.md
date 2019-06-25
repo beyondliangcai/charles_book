@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 
-* [第一章](machine_learning/README.md)
-    * [第一节](machine_learning/logistic_regression.md)
+* [machine_learning](machine_learning/README.md)
+    * [ogistic_regression](machine_learning/logistic_regression.md)
